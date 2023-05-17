@@ -3,6 +3,6 @@
 
 Cesar
 
-Soy estudeiante del ITT de Tijuana cursando el tercer semestre.
+Soy estudiante del ITT de Tijuana cursando el tercer semestre.
 
 Lenguajes favoritos
